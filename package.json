@@ -1,6 +1,6 @@
 {
   "name": "screen-render",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "src/index.js",
   "repository": "https://github.com/Fyzu/screen-render.git",
   "author": "dvpetrov <dvpetrov.main@gmail.com>",
